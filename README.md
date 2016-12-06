@@ -5,7 +5,7 @@ A Material theme for Chosen Select. Its also integrates very well with the Boots
 
 # Install
 
-#### Yarm, NPM, or Bower
+#### Yarn, NPM, or Bower
 ```
 yarn add chosen-material-theme
 
